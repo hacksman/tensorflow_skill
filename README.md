@@ -2,7 +2,7 @@
 
 ### tensorflow base
 
-The basement knowledge about tensorflow
+The base knowledge about tensorflow
 
 ### tensorflow math
 
